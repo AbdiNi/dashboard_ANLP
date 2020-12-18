@@ -1,6 +1,0 @@
-Je mets dans ce dossier de projet : 
--le fichier notebook
--le dossier Vscode : les deux pages tourne en local
- 
-Remarques:
--j'ai pas pu pousser mes fichiers sur Heroku à causes de plusieur dependencies et requerements liés à mon système debian
